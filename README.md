@@ -2,9 +2,8 @@
 
 ChurnIQ is a Streamlit portfolio project that explores customer churn in IBM's fictional telecom sample. It compares three classification models, scores individual or batch profiles, and shows how model scores respond to edits.
 
-**GitHub repository** · [noushad213/ChurnIQ](https://github.com/noushad213/ChurnIQ)
 
-**Live demo** · Streamlit Community Cloud launch pending
+**Live demo** https://churn-iq-adnan-hamid-wani.streamlit.app/
 
 ## What you can do
 
